@@ -2,7 +2,7 @@
 ---
 title: "Practicals"
 permalink: /prac-archive/
-layout: home
+layout: single
 author_profile: true
 ---
 
