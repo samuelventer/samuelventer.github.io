@@ -16,7 +16,7 @@ ICU Nurse transitioning into IT. Documenting my projects, labs, and certificatio
 ---
 
 ## Skills
-# List of your skills; can be updated anytime
+# The skills I belive are relevant to IT. - My nursing skills are [Here]{https://github.com/samuelventer/Why/}
 - I can diganose problems under pressue and work long hours
 - I am Learning Linux 
 - I am learning to use git and Github
