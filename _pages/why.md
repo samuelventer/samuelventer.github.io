@@ -1,5 +1,6 @@
+# _pages/why.md
 ---
+title: "Why ai I doing this?"
 permalink: /why/
-Title "Why am I doing this?"
-Type Single
+layout: single
 ---
