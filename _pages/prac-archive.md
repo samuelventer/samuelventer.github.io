@@ -6,11 +6,28 @@ layout: single
 author_profile: true
 ---
 
-Welcome to my Practicals! 
-Here I will be Documenting my Practicals. 
-- My home lab,
-- Cisco Pacter tracer
-- Terminal
-- Hardware exploring
-- ect
-Here are the latest posts:
+# Welcome to my Practicals page 
+Here you'll find an overview of the different Practial labs/ challanges/ tools  I'm working on or with. I'm sharing my journey, progress, and what I'm learning along the way. 
+
+---
+
+## My Practicals
+
+### [Linux Terminal](/prac-archive/linux-lerminal)
+to get aquanted with terminal i have been using diffrent tools. like SSH into over the wire bandit.  Or Tmux 
+
+[What I’m doing →](/prac-archive/linux-lerminal)
+
+---
+
+### [Cisco Pacter Tracer](/prac-archive/pacter-tracer)
+A practical introduction to Networking, and Cisco products allowing you to simulate entire networks.
+[Cisco Pacter Tracer](/prac-archive/pacter-tracer)
+
+---
+
+### [Home lab](/courses/home-lab))
+things i have learned by setting up the home network and the games I pay with it.
+[What I’m learning →](/courses/home-lab)
+
+---
