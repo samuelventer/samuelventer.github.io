@@ -14,7 +14,7 @@ Here you'll find an overview of the different Practial labs/ challanges/ tools  
 ## My Practicals
 
 ### [Linux Terminal](/prac-archive/linux-lerminal)
-to get aquanted with terminal i have been using diffrent tools. like SSH into over the wire bandit.  Or Tmux 
+to get aquanted with terminal i have been using diffrent tools like man, tldr --help and apropos. Also multiplexers like Tmux 
 
 [What I’m doing →](/prac-archive/linux-lerminal)
 
@@ -26,7 +26,7 @@ A practical introduction to Networking, and Cisco products allowing you to simul
 
 ---
 
-### [Home lab](/courses/home-lab))
+### [Home lab](/courses/home-lab)
 things i have learned by setting up the home network and the games I pay with it.
 [What I’m learning →](/courses/home-lab)
 
