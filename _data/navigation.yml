@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "Home"
-    url: https://samuelventer.github.io/
+    url: /
   - title: "Courses"
-    url: https://samuelventer.github.io/courses/
+    url: /courses/
   - title: "Practical"
-    url: https://samuelventer.github.io/prac-archive/
+    url: /prac-archive/
   - title: "Thoughts"
-    url: https://samuelventer.github.io/leassons-learned/
+    url: /leassons-learned/
   - title: "Why am I doing this?"
-    url: https://samuelventer.github.io/why/
+    url: /why/
