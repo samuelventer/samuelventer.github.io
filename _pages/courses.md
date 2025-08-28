@@ -1,6 +1,6 @@
-# _pages/Courses.md
+# _pages/courses.md
 ---
 title: "Courses"
-permalink: /Courses/
+permalink: /courses/
 layout: single
 ---
