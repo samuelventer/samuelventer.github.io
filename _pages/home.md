@@ -8,8 +8,8 @@ title: "Home"
 permalink: /
 ---
 
-# Hello, I'm Samuel Venter 👋
-# This is the main heading of your homepage
+# Hello, I'm Samuel Venter my friends call me Sa5m
+# This is a website to showcase my progress from an ICU nurse into IT
 
 ICU Nurse transitioning into IT. Documenting my projects, labs, and certifications.
 
@@ -17,29 +17,38 @@ ICU Nurse transitioning into IT. Documenting my projects, labs, and certificatio
 
 ## Skills
 # List of your skills; can be updated anytime
-- Linux & Networking
-- Python & Bash scripting
-- Git & GitHub
-- Web development (HTML, CSS, Jekyll)
+- I can diganose problems under pressue and work long hours
+- I am Learning Linux 
+- I am learning to use git and Github
+- I used to greate websites and hosting in wordpress
+- I can code in HTML JS and Delphi 7
 
 ---
 
-## Projects
-# Add GitHub links to your projects
-- [Project 1](https://github.com/samuelventer/project1) # Replace with actual repo links
-- [Project 2](https://github.com/samuelventer/project2)
-- [Project 3](https://github.com/samuelventer/project3)
+## Courses
+# I am in the process of running a few courses
+- [Learn Linux](https://github.com/samuelventer/Courses/) 
+- [CompTIA](https://github.com/samuelventer/Courses)
+- [CCNA](https://github.com/samuelventer/Courses)
+
+- ## Practical
+- # The practical skills i am learning
+- [Linux Terminal](https://github.com/samuelventer/Prac-archive/) 
+- [Pacet Tracer](https://github.com/samuelventer/Prac-archive/) 
+- [Extra](https://github.com/samuelventer/Prac-archive/)
+
+- ## Thoughts
+- # Every mounth i will post a reflection on what I have leaned
+- [Augest 2025](https://github.com/samuelventer/Leassons-learned/) 
+- [July 2025](https://github.com/samuelventer/Leassons-learned/) 
 
 ---
 
 ## Resume
-# Link to your resume PDF or online version
-[Download Resume](https://github.com/samuelventer/resume.pdf)
+# If you want my resume feel free to contact me via Linked in
+[LinkedIn](https://www.linkedin.com/in/at-samuel-v-413028321)
 
 ---
 
-## Contact / Social
-# Optional: add links to your social profiles
-- [GitHub](https://github.com/samuelventer)
-- [LinkedIn](https://www.linkedin.com/in/samuelventer)
-- Email: samuelventer@gmail.com
+## If you want to know why I am transitioning professional fields
+# Feel free to look at the Wht am i doing this page
