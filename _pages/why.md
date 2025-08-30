@@ -27,16 +27,18 @@ But before nursing, I had a strong foundation and passion for IT. Life’s circu
 Two main factors drive my return:
 
 1. **A limitation in continuing formal nursing studies.**  
-   Despite my best efforts, I cannot study to become an RN (Professional Nurse) 
+   Despite my best efforts: 
 
 - I rewrote my Senior year. 
 
 - I applied to different Colleges and Universities 
 
 - I attempted to study internationally.
-   This has motivated me to explore new avenues for growth and contribution.
+  
+I have not been allowed to study to become an RN. (Professional Nurse) -
+That has motivated me to explore new avenues for growth and contribution.
 
-3. **A lifelong passion for IT and cybersecurity.**  
+2. **A lifelong passion for IT and cybersecurity.**  
    Personal experiences—including witnessing hacking incidents that affected friends, family, my work, and even government systems—have fueled my determination to protect others and prevent digital harm.
 
 ---
