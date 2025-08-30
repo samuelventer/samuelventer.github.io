@@ -16,7 +16,7 @@ Setup a home network and started to use it for testing.
 Installed Packet Tracer and nmap
  
 -----
-July 2025
+[July 2025](/lessons-learned/July25/)
  Just started my jurney back into IT. I had one goal in mind. - Learn linux
  Installed a linux Distro and changed the desktop envionment.
  Installed Tmuux
