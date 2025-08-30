@@ -41,8 +41,8 @@ ICU Nurse transitioning into IT. Documenting my projects, labs, and certificatio
 
 - ## Thoughts
 - # Every month i will post a reflection on what I have learned
-- [August 2025](/l-l/august/) 
-- [July 2025](/l-l/July) 
+- [August 2025](/lessons-learned/Auguest25/) 
+- [July 2025](/lessons-learned/July25/) 
 
 ---
 
