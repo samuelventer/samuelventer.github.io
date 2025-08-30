@@ -8,20 +8,22 @@ title: "Home"
 permalink: /
 ---
 
-# Hello, I'm Samuel Venter my friends call me Sa5m
-# This is a website to showcase my progress from an ICU nurse into IT
+# Hi there, I'm Samuel Venter, my friends call me Sa5m
+# This is a website to showcase my progress from an ICU nurse to IT
 
 ICU Nurse transitioning into IT. Documenting my projects, labs, and certifications.
 
 ---
 
 ## Skills
-# The skills I belive are relevant to IT. - My nursing skills are [Here](https://github.com/samuelventer/Why/)
-- I can diganose problems under pressue and work long hours
-- I am Learning Linux 
-- I am learning to use git and Github
-- I used to greate websites and hosting in wordpress
-- I can code in HTML JS and Delphi 7
+# The skills I believe are relevant to IT. - My nursing skills are [Here](https://github.com/samuelventer/Why/)
+- I can diagnose problems under pressure and work long hours 
+
+- I can look at multiple systems and see a problem in one and how it affects others 
+- I am Learning Linux
+- I am learning to use git and GitHub
+- I used to create websites and manage hosting them, mainly in WordPress
+- I can code in HTML, JS and Delphi 7
 
 ---
 
@@ -38,17 +40,17 @@ ICU Nurse transitioning into IT. Documenting my projects, labs, and certificatio
 - [Extra](https://github.com/samuelventer/Prac-archive/)
 
 - ## Thoughts
-- # Every mounth i will post a reflection on what I have leaned
-- [Augest 2025](https://github.com/samuelventer/Leassons-learned/) 
-- [July 2025](https://github.com/samuelventer/Leassons-learned/) 
+- # Every month i will post a reflection on what I have learned
+- [August 2025](/l-l/august/) 
+- [July 2025](/l-l/July) 
 
 ---
 
 ## Resume
-# If you want my resume feel free to contact me via Linked in
+# If you want my resume, feel free to contact me via LinkedIn
 [LinkedIn](https://www.linkedin.com/in/at-samuel-v-413028321)
 
 ---
 
 ## If you want to know why I am transitioning professional fields
-# Feel free to look at the Wht am i doing this page
+# Feel free to look at the [Why am I doing this page](/why/)
